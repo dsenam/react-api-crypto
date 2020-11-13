@@ -11,7 +11,7 @@ function Coin({image, name, symbol, price, volume}) {
               <p className='coin-symbol'>{symbol}</p>
             </div>
             <div className="coin-data">
-              <p className="coin-prince">R${price}</p>
+              <p className="coin-price">R${price}</p>
               <p className="coin-volume">R${volume.toLocaleString()}</p>
             </div>
           </div>
