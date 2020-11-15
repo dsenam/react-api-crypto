@@ -37,7 +37,7 @@ O layout da aplicação está disponível abaixo:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center">
-  <img alt="Made by dsenam" src="./assets/layout.png">
+  <img alt="Made by dsenam" src="https://github.com/dsenam/react-api-crypto/blob/main/src/assets/layout.png">
 </p>
 
 ---
