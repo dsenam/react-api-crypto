@@ -1,9 +1,9 @@
 <h1 align="center">
-      <a href="#" alt="site do ecoleta"> Buscador de Criptomoedas </a>
+     Buscador de Criptomoedas
 </h1>
 
 <h3 align="center">
-     Consulte a cotação da sua criptomoeda favorita utilizando esta aplicação que consome API (<a>https://www.coingecko.com/pt/api</a>)
+     Consulte a cotação da sua criptomoeda favorita utilizando esta aplicação que consome API (<a href="#">https://www.coingecko.com/pt/api</a>)
 </h3>
 
 <h4 align="center">
@@ -31,15 +31,13 @@ Tabela de conteúdos
 
 O layout da aplicação está disponível abaixo:
 
-  <img alt="Made by dsenam" src="./assets/layout.png">
+  
 </a>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="Made by dsenam" src="./assets/layout.png" width="800px">
 </p>
 
 ---
@@ -57,10 +55,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/dsenam/react-api-crypto.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd react-api-crypto
 
 # Vá para a pasta da aplicação Front End
 $ cd web
@@ -96,7 +94,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Douglas Sena</b></sub></a>
  <br />
 
-[[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglassena/)](https://www.linkedin.com/in/douglassena/) 
+[[![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglassena/)](https://www.linkedin.com/in/douglassena/) 
 
 ---
 
