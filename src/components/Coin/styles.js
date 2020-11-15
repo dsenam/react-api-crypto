@@ -11,7 +11,7 @@ export const Container = styled.div`
   }
 
   h1 {
-      font-size: 25px;
+      font-size: 20px;
   }
 `;
 
@@ -30,5 +30,10 @@ export const Content = styled.div`
 
     img {
         margin-left: 5px;
+    }
+
+    @media (max-width: 750px) {
+        display: flex;
+        flex-direction: column;
     }
 `;
