@@ -14,7 +14,6 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Layout](#-layout)
-          * [Web](#web)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
      * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
@@ -33,8 +32,6 @@ O layout da aplicação está disponível abaixo:
 
   
 </a>
-
-### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center">
   <img alt="Made by dsenam" src="https://github.com/dsenam/react-api-crypto/blob/main/src/assets/layout.png">
@@ -85,6 +82,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **Axios**
 -   **Styled Components**
 -   **React Toastify**
+-   **Medias Queries**
 
 
 ## 🦸 Autor
