@@ -36,8 +36,8 @@ O layout da aplicação está disponível abaixo:
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Made by dsenam" src="./assets/layout.png" width="800px">
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center">
+  <img alt="Made by dsenam" src="./assets/layout.png">
 </p>
 
 ---
@@ -88,13 +88,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## 🦸 Autor
-
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
  <sub><b>Douglas Sena</b></sub></a>
  <br />
 
-[[![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglassena/)](https://www.linkedin.com/in/douglassena/) 
+[[![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglassena/)(https://www.linkedin.com/in/douglassena/) 
 
 ---
 
