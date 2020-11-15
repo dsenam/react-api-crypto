@@ -91,7 +91,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Douglas Sena</b></sub></a>
  <br />
 
-[[![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglassena/)(https://www.linkedin.com/in/douglassena/) 
+![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglassena/)(https://www.linkedin.com/in/douglassena/) 
 
 ---
 
