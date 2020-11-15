@@ -1,7 +1,7 @@
 <h1 align="center">
      Buscador de Criptomoedas
 
-     [![Netlify Status](https://api.netlify.com/api/v1/badges/7bc5975b-edc4-40c3-8b8c-c90a6e8f85cc/deploy-status)](https://app.netlify.com/sites/dsenam-react-crypto/deploys)
+     ![Netlify Status](https://api.netlify.com/api/v1/badges/7bc5975b-edc4-40c3-8b8c-c90a6e8f85cc/deploy-status)(https://app.netlify.com/sites/dsenam-react-crypto/deploys)
 </h1>
 
 <h3 align="center">
